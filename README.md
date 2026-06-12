@@ -94,7 +94,7 @@ cwwwwcGyQpQw+-AD0APQ+-AD0APQ+-AD0APQ+-AD0APQ+-AD0APQ+-AD0APQ+AD0APQ-
 
 ---
 
-## 💡 **Versión Profesional (Pro)**
+## 💡 **Versión Profesional **
 ```python
 #!/usr/bin/env python3
 """
